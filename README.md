@@ -1,2 +1,1 @@
-# scallopWales
-Scallop stock assessment 
+# Scallop stock assessment 
